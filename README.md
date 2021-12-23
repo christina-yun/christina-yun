@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
-<h3 align="center">A passionate Full Stack Developer from the Bay Area</h3>
+<h3 align="center">Software Engineer, formerly Operations and Project Management from the Bay Area</h3>
 
 - 🔭 I’m currently working on [Human Rights First, DocDB](https://github.com/Lambda-School-Labs/human-rights-first-docdb-be)
 
