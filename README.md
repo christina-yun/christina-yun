@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **poncheeyun@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-lu2K-SaKZPOYm0dIx1x9iP4NqB2ZjP6/view?usp=sharing](https://drive.google.com/file/d/1-lu2K-SaKZPOYm0dIx1x9iP4NqB2ZjP6/view?usp=sharing)
+- 📄 Learn about my experiences [https://drive.google.com/file/d/1-lu2K-SaKZPOYm0dIx1x9iP4NqB2ZjP6/view?usp=sharing](https://drive.google.com/file/d/1-lu2K-SaKZPOYm0dIx1x9iP4NqB2ZjP6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
