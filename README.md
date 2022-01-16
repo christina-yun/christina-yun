@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center">Software Engineer, formerly Operations and Project Management from the Bay Area</h3>
 
-- 🔭 I’m currently working on [Human Rights First, DocDB](https://github.com/Lambda-School-Labs/human-rights-first-docdb-be)
+- 🔭 I’m currently working on [Trade Me Maybe](https://github.com/Lambda-School-Labs/human-rights-first-docdb-be), a pin searching and trading platform
 
 - 📫 How to reach me **poncheeyun@yahoo.com**
 
